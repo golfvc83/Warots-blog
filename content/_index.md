@@ -1,0 +1,2 @@
+## So What is this all about?
+`Hello other humans...hopefully` If you have some how manage to get here this means that you have reached Warot Prapatsorn's travel logs. Feel free to look around and check out his extremly simple `life style`✌️. 
