@@ -4,7 +4,7 @@ title: Japan Fukuoka 2025
 subtitle: Japan Fukuoka June 2025
 date: 2025-05-07
 tags: ["japan", "fukuoka", "June 2025", "2025-05"]
-bigimg: [{src: "/img/fukuoka_gundam.jpg", desc: "Gundam"}]
+bigimg: [{src: "/img/fukuoka-2025/fukuoka_gundam.jpg", desc: "Gundam"}]
 ---
 
 ```
@@ -17,7 +17,7 @@ bigimg: [{src: "/img/fukuoka_gundam.jpg", desc: "Gundam"}]
 🎫 Kyushu JR Pass
 ```
 
-![kyushu](/img/kyushu-map.png "{width='35'}")
+![kyushu](/img/fukuoka-2025/kyushu-map.png "{width='35'}")
 
 #####################################################################################################################################
 
