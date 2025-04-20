@@ -1,4 +1,4 @@
-baseurl = "https://username.github.io"
+baseurl = "https://warotsblog.netlify.app/"
 DefaultContentLanguage = "en"
 title = "Here we go!"
 # Using theme as git submodule
