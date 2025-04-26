@@ -6,8 +6,8 @@ comments: false
 
 My name is Warot Prapatsorn. I have the following qualities:
 
-- I like making people bow to via my programming skills
-- I love memes...of all kinds
+- I like making people bow to me via my programming skills.
+- I love memes...of all kinds.
 
 What else do you need?
 

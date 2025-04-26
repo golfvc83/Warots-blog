@@ -19,7 +19,7 @@ bigimg: [{src: "/img/fukuoka-2025/fukuoka_gundam.jpg", desc: "Gundam"}]
 
 ![kyushu](/img/fukuoka-2025/kyushu-map.png "{width='35'}")
 
-#####################################################################################################################################
+################################################################
 
 Kyushu, Japan - a treasure trove of historic treasures, modern cities, and natural beauty! For 2025, here are 20 exciting things to do in Kyushu:
 
